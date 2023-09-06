@@ -1,15 +1,16 @@
 package day12arraylists;
 
+
 import java.util.ArrayList;
 
 public class ArrayList01 {
 
-    public static void main(String[] args) {
+    public static <Integer> void main(String[] args) {
 
         ArrayList<Integer> ages = new ArrayList<>();
 
         //ArrayListlere eleman nasil eklenir?
-        ages.add(5);
+    /*    ages.add(5);
         ages.add(7);
         ages.add(19);
         ages.add(1, 313);
@@ -60,6 +61,5 @@ list.add(3);
 
 
     }
-
-
-}
+*/
+    }}
