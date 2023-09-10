@@ -5,16 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61f135b6-edd4-44b6-af72-6f512ef18681" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/InstanceBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/InstanceRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/StaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day18oop/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day18oop/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dneme/Deneme025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/Animalrunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/StdRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/VehicleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/AnimalRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/VehicleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17oop/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20collections/LinkedList01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20collections/Queues01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20collections/Set01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20collections/Set02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dneme/deneme06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dneme/dneme6runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dneme/mm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strinnthings/Bakkal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strinnthings/Bakkal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strinnthings/new1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strinnthings/new2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strinnthings/new3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strinnthings/new4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day12arraylists/ArrayList01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12arraylists/ArrayList01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dneme/Deneme04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dneme/Deneme04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day16staticoop/StaticBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day16staticoop/StaticBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18oop/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18oop/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18oop/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18oop/Cat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,29 +74,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Murat/IdeaProjects/Batch189NT&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/yeni proje/Batch189NT/src/main/java/day18oop",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\yeni proje\Batch189NT\src\main\java\day18oop" />
+      <recent name="C:\yeni proje\Batch189NT\src\main\java\day17oop" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\yeni proje\Batch189NT\src\main\java\day04scannerincrementifstatements" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Deneme04">
-    <configuration name="ArrayList01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12arraylists.ArrayList01" />
+  <component name="RunManager" selected="Application.Bakkal">
+    <configuration name="Bakkal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strinnthings.Bakkal" />
       <module name="Batch189NT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12arraylists.*" />
+          <option name="PATTERN" value="strinnthings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,8 +108,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Deneme025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dneme.Deneme025" />
+    <configuration name="Bakkal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strinnthings.Bakkal2" />
+      <module name="Batch189NT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strinnthings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarketUyhulaması" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strinnthings.MarketUyhulaması" />
+      <module name="Batch189NT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strinnthings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queues01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20collections.Queues01" />
+      <module name="Batch189NT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day20collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dneme.mm" />
       <module name="Batch189NT" />
       <extension name="coverage">
         <pattern>
@@ -89,74 +156,24 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Deneme04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dneme.Deneme04" />
-      <module name="Batch189NT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dneme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="deneme06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dneme.deneme06" />
-      <module name="Batch189NT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dneme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="deneme2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dneme.deneme2" />
-      <module name="Batch189NT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dneme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.deneme06" />
-      <item itemvalue="Application.Deneme025" />
-      <item itemvalue="Application.ArrayList01" />
-      <item itemvalue="Application.Deneme04" />
-      <item itemvalue="Application.deneme2" />
+      <item itemvalue="Application.Bakkal" />
+      <item itemvalue="Application.Bakkal2" />
+      <item itemvalue="Application.MarketUyhulaması" />
+      <item itemvalue="Application.mm" />
+      <item itemvalue="Application.Queues01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Deneme04" />
-        <item itemvalue="Application.deneme06" />
-        <item itemvalue="Application.Deneme025" />
-        <item itemvalue="Application.ArrayList01" />
-        <item itemvalue="Application.deneme2" />
+        <item itemvalue="Application.Bakkal" />
+        <item itemvalue="Application.Bakkal2" />
+        <item itemvalue="Application.MarketUyhulaması" />
+        <item itemvalue="Application.mm" />
+        <item itemvalue="Application.Queues01" />
       </list>
     </recent_temporary>
   </component>
@@ -233,10 +250,43 @@
           <line>27</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/strinnthings/new1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/strinnthings/new1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/strinnthings/new1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/strinnthings/new1.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/strinnthings/new1.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/strinnthings/new1.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Batch189NT$Bakkal2.ic" NAME="Bakkal2 Coverage Results" MODIFIED="1694364644953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>strinnthings.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Batch189NT$Forloops02.ic" NAME="Forloops02 Coverage Results" MODIFIED="1692536026143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>day08Loops.*</FILTER>
     </SUITE>

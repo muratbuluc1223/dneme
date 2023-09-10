@@ -12,6 +12,7 @@ public class StaticBlock {//Bir variable  olusturdugunzda deger atamazsaniz o va
 
     static {
         System.out.println("Static block 2");
+
         LocalDate currentDate = LocalDate.now();
         if(currentDate.getMonthValue()==8){
             price=1000;
@@ -24,6 +25,7 @@ public class StaticBlock {//Bir variable  olusturdugunzda deger atamazsaniz o va
     static {
         pi = 3.14;
         System.out.println("Static block 1");
+        System.out.println(pi);
     }
 
     public static void main(String[] args) {
