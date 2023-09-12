@@ -18,8 +18,8 @@ public class LinkedList01 {
          LinkedList<String>list=new LinkedList<>();
          list.add("Mehmet");
          list.add("Ahmet");
-        list.add("Mehmet");
-        list.add("Onur");
+          list.add("Mehmet");
+         list.add("Onur");
          list.add("Kübra");
          list.add("Tuba");
          list.add("Duygu");
